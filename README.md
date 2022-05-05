@@ -24,3 +24,5 @@ Luis Carro-Pendulo
 6. Write a report showing all the results, with a extensive discussion about them.
 
 Note: In total there are 14 cases to be solved. 
+
+Send to L. Fridman, josseega@outlook.com
