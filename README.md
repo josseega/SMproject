@@ -4,7 +4,7 @@
 
 1. If it's necessary linearize the plant along the **unstable** equilibrium point.
 2. Look if the system is controlable using the controlability matrix.
-3. Transform the system intro the Canonical Controlable Form.
+3. Transform the system into the Canonical Controlable Form.
 4. Design the following surfaces:
     - Singular LQ Design of first order.
     - Singular LQ Design of second order.
