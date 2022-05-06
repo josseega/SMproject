@@ -1,10 +1,18 @@
 # Project for the Sliding Modes Lecture
 
+Matias Furuta
+
+Milton IWP
+
+Jorge Segway
+
+Luis Carro-Pendulo
+
 ## Stabilization of underactuated systems using sliding surfaces
 
 1. If it's necessary linearize the plant along the **unstable** equilibrium point.
 2. Look if the system is controlable using the controlability matrix.
-3. Transform the system intro the Canonical Controlable Form.
+3. Transform the system into the Canonical Controlable Form.
 4. Design the following surfaces:
     - Singular LQ Design of first order.
     - Singular LQ Design of second order.
@@ -16,3 +24,5 @@
 6. Write a report showing all the results, with a extensive discussion about them.
 
 Note: In total there are 14 cases to be solved. 
+
+Send to L. Fridman, josseega@outlook.com
