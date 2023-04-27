@@ -1,12 +1,6 @@
 # Project for the Sliding Modes Lecture
 
-Matias Furuta
 
-Milton IWP
-
-Jorge Segway
-
-Luis Carro-Pendulo
 
 ## Stabilization of underactuated systems using sliding surfaces
 
