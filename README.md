@@ -1,6 +1,9 @@
 # Project for the Sliding Modes Lecture
 
-
+Cart-Pole // Miguel Escobar
+Furuta Pdl // Carlos Guevara
+RWP // Guillermo Ocaña
+Segway // Areli Resendiz
 
 ## Stabilization of underactuated systems using sliding surfaces
 
