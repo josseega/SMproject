@@ -1,9 +1,16 @@
 # Project for the Sliding Modes Lecture
 
 Cart-Pole // Miguel Escobar
+mig.escobart@gmail.com
+
 Furuta Pdl // Carlos Guevara
+carangu.cagv@gmail.com
+
 RWP // Guillermo Ocaña
+guillermoocan223@gmail.com
+
 Segway // Areli Resendiz
+rqa1926@gmail.com
 
 ## Stabilization of underactuated systems using sliding surfaces
 
